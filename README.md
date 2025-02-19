@@ -1,2 +1,2 @@
 # ai-bug-fixer
-This project uses AI (GPT-3.5) to analyze and fix errors in Python code. Just input your buggy script, and the AI will return a corrected version with explanations.
+This project is an AI-powered bug fixer that automatically detects and corrects errors in Python code using free open-source AI models (e.g., Code Llama, Mistral AI). It provides fixed code along with explanations, reducing debugging time significantly.
